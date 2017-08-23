@@ -1,5 +1,6 @@
 pip-selfcheck.json
 .Python
+*.pyc
 
 # for Visual Studio code
 .vscode/*
