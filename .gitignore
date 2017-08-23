@@ -1,0 +1,14 @@
+pip-selfcheck.json
+.Python
+
+# for Visual Studio code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# for local
+bin/
+include/
+lib/
